@@ -1,11 +1,7 @@
 [
   {
-    "english": "Logged out and came back… blocks moved on their own. ███",
+    "english": "I logged out and when I came back… blocks moved on their own. ███",
     "spanish": "Me desconecté y cuando regresé… los bloques se movieron solos. ███"
-  },
-  {
-    "english": "I thought it was a glitch at first.",
-    "spanish": "Al principio pensé que era un error."
   },
   {
     "english": "Singleplayer feels… different today.",
@@ -24,22 +20,6 @@
     "spanish": "Está en modo pacífico pero puedo escuchar susurros."
   },
   {
-    "english": "Came back to my world… house I didn’t build.",
-    "spanish": "Volví a mi mundo… una casa que no construí."
-  },
-  {
-    "english": "Friends told me I’m imagining things, but… ███",
-    "spanish": "Mis amigos dicen que me lo estoy imaginando, pero… ███"
-  },
-  {
-    "english": "Something feels wrong when I open the Nether.",
-    "spanish": "Algo se siente mal cuando abro el Nether."
-  },
-  {
-    "english": "My mobs aren’t acting normal…",
-    "spanish": "Mis mobs no están actuando normalmente…"
-  },
-  {
     "english": "Chunks shifted even though I was offline.",
     "spanish": "Los chunks cambiaron aunque yo estaba desconectado."
   },
@@ -48,35 +28,143 @@
     "spanish": "Me desconecté, el mundo parecía bien… luego regresé y ███"
   },
   {
-    "english": "I hear footsteps in my world when no one is there.",
-    "spanish": "Escucho pasos en mi mundo cuando no hay nadie."
+    "english": "I see doors opening by themselves sometimes.",
+    "spanish": "Veo puertas abrirse solas a veces."
   },
   {
-    "english": "Blocks disappear, items move… I’m not alone.",
-    "spanish": "Los bloques desaparecen, los objetos se mueven… no estoy solo."
+    "english": "My friend laughed but then he said he saw something behind me…",
+    "spanish": "Mi amigo se rió pero luego dijo que vio algo detrás de mí…"
   },
   {
-    "english": "Something watches me… even in peaceful.",
-    "spanish": "Algo me vigila… incluso en modo pacífico."
+    "english": "Items drop randomly, but no mobs around.",
+    "spanish": "Los objetos caen al azar, pero no hay mobs cerca."
   },
   {
-    "english": "I tried to close the game… but ███ stayed.",
-    "spanish": "Intenté cerrar el juego… pero ███ permaneció."
+    "english": "The light in my world flickers, even in Creative.",
+    "spanish": "La luz en mi mundo parpadea, incluso en Creative."
   },
   {
-    "english": "I can’t explain it, but I feel eyes on me.",
-    "spanish": "No puedo explicarlo, pero siento ojos sobre mí."
+    "english": "I think ███ is following me… even in peaceful.",
+    "spanish": "Creo que ███ me está siguiendo… incluso en pacífico."
   },
   {
-    "english": "Even in Creative, things change without me.",
-    "spanish": "Incluso en Creative, las cosas cambian sin que yo haga nada."
+    "english": "I logged in and my house looked… wrong.",
+    "spanish": "Entré a mi mundo y mi casa se veía… extraña."
   },
   {
-    "english": "The logs don’t lie… someone or something is here. ███",
-    "spanish": "Los logs no mienten… alguien o algo está aquí. ███"
+    "english": "Blocks vanish and reappear somewhere else.",
+    "spanish": "Los bloques desaparecen y reaparecen en otro lugar."
   },
   {
-    "english": "I thought I was alone… but apparently I’m not.",
-    "spanish": "Pensé que estaba solo… pero aparentemente no lo estoy."
+    "english": "I thought I was alone… but there’s always something watching.",
+    "spanish": "Pensé que estaba solo… pero siempre hay algo vigilando."
+  },
+  {
+    "english": "Mobs don’t attack me but I see them staring.",
+    "spanish": "Los mobs no me atacan pero los veo mirándome."
+  },
+  {
+    "english": "My save crashed, but when I reopened… new structures appeared.",
+    "spanish": "Mi partida se cerró, pero cuando la abrí… aparecieron estructuras nuevas."
+  },
+  {
+    "english": "I hear doors closing behind me when I’m alone.",
+    "spanish": "Escucho puertas cerrarse detrás de mí cuando estoy solo."
+  },
+  {
+    "english": "I left my PC… came back and logs were wiped.",
+    "spanish": "Dejé mi PC… regresé y los logs se habían borrado."
+  },
+  {
+    "english": "Sometimes I feel like my character isn’t mine.",
+    "spanish": "A veces siento que mi personaje no es mío."
+  },
+  {
+    "english": "I saw a figure moving in the distance, but no one is online.",
+    "spanish": "Vi una figura moverse a lo lejos, pero nadie está conectado."
+  },
+  {
+    "english": "Even in Creative, blocks shift as if someone is editing.",
+    "spanish": "Incluso en Creative, los bloques se mueven como si alguien editara."
+  },
+  {
+    "english": "I hear whispers in my headphones… then logs show nothing.",
+    "spanish": "Escucho susurros en mis auriculares… pero los logs no muestran nada."
+  },
+  {
+    "english": "I tried to delete my world… it came back intact.",
+    "spanish": "Intenté borrar mi mundo… volvió intacto."
+  },
+  {
+    "english": "Something is placing blocks while I’m offline.",
+    "spanish": "Algo está colocando bloques mientras estoy desconectado."
+  },
+  {
+    "english": "I feel like someone is watching me build.",
+    "spanish": "Siento que alguien me observa mientras construyo."
+  },
+  {
+    "english": "I left my world in the Nether… came back and the Overworld looked twisted.",
+    "spanish": "Dejé mi mundo en el Nether… regresé y el Overworld se veía distorsionado."
+  },
+  {
+    "english": "Items appear in chests I never opened.",
+    "spanish": "Objetos aparecen en cofres que nunca abrí."
+  },
+  {
+    "english": "I logged in late at night… and my logs were full of unknown commands.",
+    "spanish": "Entré tarde en la noche… y mis logs estaban llenos de comandos desconocidos."
+  },
+  {
+    "english": "I saw a shadow move behind my character… but no one is online.",
+    "spanish": "Vi una sombra moverse detrás de mi personaje… pero nadie está conectado."
+  },
+  {
+    "english": "Sometimes I feel like my world remembers things I didn’t do.",
+    "spanish": "A veces siento que mi mundo recuerda cosas que no hice."
+  },
+  {
+    "english": "I hear footsteps in my house even when I’m offline.",
+    "spanish": "Escucho pasos en mi casa incluso cuando estoy desconectado."
+  },
+  {
+    "english": "The sun rises… but shadows stay in the same place.",
+    "spanish": "El sol sale… pero las sombras permanecen en el mismo lugar."
+  },
+  {
+    "english": "I see signs written in my world… messages I never typed.",
+    "spanish": "Veo carteles escritos en mi mundo… mensajes que nunca escribí."
+  },
+  {
+    "english": "My friends told me it’s a bug… but it happened in my offline world too.",
+    "spanish": "Mis amigos dijeron que es un error… pero pasó también en mi mundo offline."
+  },
+  {
+    "english": "I feel eyes on me when I mine underground.",
+    "spanish": "Siento ojos sobre mí cuando mino bajo tierra."
+  },
+  {
+    "english": "Blocks stack differently when I’m not looking.",
+    "spanish": "Los bloques se apilan diferente cuando no estoy mirando."
+  },
+  {
+    "english": "I opened my world… my bed was moved to a different place.",
+    "spanish": "Abrí mi mundo… mi cama estaba en otro lugar."
+  },
+  {
+    "english": "I left for a minute… came back and heard whispers of my name.",
+    "spanish": "Me fui un minuto… regresé y escuché susurros con mi nombre."
+  },
+  {
+    "english": "Something edits my builds while I’m away… ███",
+    "spanish": "Algo edita mis construcciones mientras me voy… ███"
+  },
+  {
+    "english": "I can’t explain it… but my world feels alive, like it watches me.",
+    "spanish": "No puedo explicarlo… pero mi mundo se siente vivo, como si me vigilara."
+  },
+  {
+    "english": "I thought I was alone in singleplayer… but apparently I’m not.",
+    "spanish": "Pensé que estaba solo en singleplayer… pero aparentemente no lo estoy."
   }
 ]
